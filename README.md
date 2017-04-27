@@ -25,6 +25,3 @@ addding lines like crazyaddding lines like crazy
 addding lines like crazy
 addding lines like crazy
 addding lines like crazy
-
-
-cant revert tha damn thing
