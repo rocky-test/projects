@@ -1,30 +1,7 @@
 # projects
 This is my first repository
 Testing desktop app
-<<<<<<< HEAD
-=======
 
+Let's keep this simple readme file.
 
-addding lines like crazy
-addding lines like crazyaddding lines like crazyaddding lines like crazyaddding lines like crazyaddding lines like crazyaddding lines like crazy
-
-
-
-addding lines like crazyaddding lines like crazyaddding lines like crazy
-addding lines like crazyaddding lines like crazyaddding lines like crazy
-addding lines like crazyaddding lines like crazyaddding lines like crazyaddding lines like crazy
-
-addding lines like crazyaddding lines like crazyaddding lines like crazyaddding lines like crazyaddding lines like crazy
-addding lines like crazy
-addding lines like crazyaddding lines like crazyaddding lines like crazy
-addding lines like crazyaddding lines like crazy
-addding lines like crazy
-addding lines like crazy
-addding lines like crazyaddding lines like crazy
-addding lines like crazy
-addding lines like crazyaddding lines like crazy
-addding lines like crazyaddding lines like crazy
-addding lines like crazy
-addding lines like crazy
-addding lines like crazy
->>>>>>> parent of 09524ef... frustration
+@all the nonsense gone!
